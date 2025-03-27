@@ -1,0 +1,6 @@
+@Task2_HostAddress = http://localhost:5030
+
+POST /api.telegram.org/bot8083931685:AAFMubAlDXhrpsHeAkBwPJJs_l-MvZD4QVE/sendMessage
+Content-Type: application/json
+
+###
